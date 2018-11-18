@@ -7,7 +7,7 @@ Batch: CSE 2k16-20, College of Engg. Adoor
 University: APJ Abdul Kalam Technological University
 
 Includes
-- [Arrays](1.%20Arrays/README.md)
+- [Arrays](1.%20Arrays/1.array.c)
 - [Searching](2.%20Searching/README.md)
     - [Linear Search](2.%20Searching/2.linearSearch.c)
     - [Binary Search](2.%20Searching/3.binarySearch.c)
