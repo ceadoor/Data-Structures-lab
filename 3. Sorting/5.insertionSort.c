@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Insertion Sort
+*/
+
 #include <stdio.h>
 int n, Ar[20];
 void view();

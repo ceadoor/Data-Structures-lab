@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Linear Search
+*/
+
 #include <stdio.h>
 void main()
 {

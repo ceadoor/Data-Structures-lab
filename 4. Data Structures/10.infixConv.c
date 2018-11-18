@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Infix to Postfix Conversion
+*/
+
 #include <stdio.h>
 #include <ctype.h>
 char Ar[50];

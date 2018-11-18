@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Selection Sort
+*/
+
 #include <stdio.h>
 int n, Ar[20];
 

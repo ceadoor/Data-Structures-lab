@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Binary Search
+*/
+
 #include <stdio.h>
 void main()
 {

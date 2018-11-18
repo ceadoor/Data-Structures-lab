@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Circular-Queue Operations
+*/
+
 #include <stdio.h>
 int Ar[50], front = -1, rear = -1, n; //n is required in so many places
 int isFull();                         //as call before definition

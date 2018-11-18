@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Stack using Linked List
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 int userInput();

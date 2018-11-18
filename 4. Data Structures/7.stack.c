@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Stack Operations
+*/
+
 #include <stdio.h>
 int top = -1, Ar[20], i, item; //Global Variables
 void push(int n);

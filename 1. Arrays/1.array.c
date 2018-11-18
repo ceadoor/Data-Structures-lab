@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Arrays
+*/
+
 #include <stdio.h>
 void main()
 {

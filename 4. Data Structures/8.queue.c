@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Queue Operations
+*/
+
 #include <stdio.h>
 int Ar[25], n, front = -1, rear = -1, item;
 void insert(int n);

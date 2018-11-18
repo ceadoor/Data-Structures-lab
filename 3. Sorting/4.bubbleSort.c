@@ -1,3 +1,8 @@
+/* 
+    Author     : abhijithvijayan
+    Title      : Bubble Sort
+*/
+
 #include <stdio.h>
 int n, Ar[20];
 
